@@ -7,7 +7,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 ## 문제 목록
 
-- [프로그래머스](./programmers/): 프로그래머스 코딩 테스트 문제 풀이
+- [프로그래머스]([./programmers/](https://programmers.co.kr/)): 프로그래머스 코딩 테스트 문제 풀이
 
 ## 언어
 
