@@ -14,6 +14,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 문제 풀이에 사용한 주요 언어:
 
 - Java Script
+- Java
 
 ## 폴더 구조
 
